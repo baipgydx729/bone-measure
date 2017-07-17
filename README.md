@@ -8,8 +8,8 @@
 
 ![image01](./screenshot/pic_01.png)
 
-![image02](./screenshot/pic_02.png)
-
+![image02](./screenshot/pic_03.png)
+ 
 
 # Installing :
 
